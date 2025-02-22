@@ -1,3 +1,5 @@
+MacOS. AppleScript. Python (keyboard library).
+
 this script sets macos system settings to use left cmd key press ONCE for dictation
 it uses the keyboard library to listen for the left cmd key press
 please set the left cmd key press TWICE for dictation in MacOS system settings
